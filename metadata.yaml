@@ -1,0 +1,56 @@
+_repo: Atta-Troll_31305
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Levy, Oscar
+    aliases:
+    - Levy, O. (Oscar)
+    - Levy, Oscar Ludwig
+    birthdate: 1867
+    deathdate: 1946
+    gutenberg_agent_id: '7862'
+    url: http://www.gutenberg.org/2009/agents/7862
+    wikipedia: http://en.wikipedia.org/wiki/Oscar_Levy
+  illustrator:
+    agent_name: Pogány, Willy
+    aliases:
+    - Pogany, Willy
+    - Pogány, Vilmos
+    birthdate: 1882
+    deathdate: 1955
+    gutenberg_agent_id: '6985'
+    url: http://www.gutenberg.org/2009/agents/6985
+    wikipedia: http://en.wikipedia.org/wiki/Willy_Pogany
+  translator:
+    agent_name: Scheffauer, Herman George
+    alias: Scheffauer, Hermann Georg
+    birthdate: 1878
+    deathdate: 1927
+    gutenberg_agent_id: '32166'
+    url: http://www.gutenberg.org/2009/agents/32166
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heine, Heinrich
+    alias: Heine, H. (Heinrich)
+    birthdate: 1797
+    deathdate: 1856
+    gutenberg_agent_id: '1049'
+    url: http://www.gutenberg.org/2009/agents/1049
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_Heine
+description: ''
+gutenberg_issued: '2010-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31305'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German poetry -- Translations into English'
+title: Atta Troll
+url: http://www.gutenberg.org/ebooks/31305
